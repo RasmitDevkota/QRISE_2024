@@ -4,6 +4,15 @@ Welcome to Team Rydberg Ranger's neutral atom quantum computer compilation visua
 
 QuViz allows users to compose a quantum circuit or type up an OpenQASM3 program and see it played out in real time!
 
+## Program layout
+
+Inputs:
+- Circuit composer
+- OpenQASM3
+
+Outputs:
+- Visualization of large neutral atom arrays
+
 ## Main references:
 - Bluvstein et al. 2021
 - Bluvstein et al. 2023
